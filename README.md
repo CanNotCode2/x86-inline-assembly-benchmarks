@@ -1,0 +1,1 @@
+Small project containing assembly benchmarks; made as a sanity check and to investigate SIMD performance somehow(?) being slower in Java than scalar. Currently just compares computing dot product with C vs `DPPS` on x86. 
