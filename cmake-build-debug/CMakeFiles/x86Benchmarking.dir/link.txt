@@ -1,1 +1,0 @@
-/usr/bin/gcc  -march=native -g CMakeFiles/x86Benchmarking.dir/main.c.o -o x86Benchmarking
